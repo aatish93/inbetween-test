@@ -1,0 +1,13 @@
+{
+    "colors":[
+        "#cc0000","#ffff00","#3333ff","#339966","#000066","#ffffff"
+    ],
+    "images":[
+        "../assets/cats.jpg",
+        "../assets/clouds.jpg",
+        "../assets/fox.jpg",
+        "../assets/scenery.jpg",
+        "../assets/sunset.jpg",
+        "../assets/trees.jpg"
+    ]
+}

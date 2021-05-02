@@ -1,0 +1,27 @@
+.simpleBorder{
+    border: 1px solid;
+}
+.container .rowHeight{
+    height:600px;
+}
+.colorBox{
+    width:100px;
+    height:100px;
+    margin:10px;
+}
+.imgBox{
+    width:100px;
+    height:100px;
+    margin:10px;
+}
+.image{
+    width:100px;
+    height:100px;
+}
+.opac{
+    opacity: 60%;
+}
+.stage{
+    width:100%;
+    height:100%;
+}
